@@ -6,6 +6,8 @@ build:
 draft: build
 	xml2rfc template.xml -f draft.txt --text
 
+exp: build
+	xml2rfc template.xml -f draft-ietf-dnsop-alias-rr-type.xml --exp
 clean:
 	rm -f abstract.xml
 	rm -f middle.xml
