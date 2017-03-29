@@ -84,9 +84,6 @@ the lower TTL value.
 
 ## Handling CNAME QTYPE
 
-Authoritative name servers that receive a CNAME request at a
-an ALIAS node should treat the request as a QTYPE A.
-
 Authoritative name servers that receive a CNAME request at an ALIAS
 node MUST treat the request as a QTYPE A.
 
