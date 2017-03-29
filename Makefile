@@ -7,7 +7,7 @@ draft: build
 	xml2rfc template.xml -f draft.txt --text
 
 clean:
-	rm abstract.xml
-	rm middle.xml
-	rm back.xml
-	rm draft.txt
+	rm -f abstract.xml
+	rm -f middle.xml
+	rm -f back.xml
+	rm -f draft.txt
