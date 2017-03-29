@@ -7,7 +7,7 @@
 <!ENTITY pandocRef2119  PUBLIC '' 'bib/reference.RFC.2119.xml'>
 ]>
 
-<rfc ipr="trust200902" category="std" docName="draft-dnsop-eden-alias-rr-type">
+<rfc ipr="trust200902" category="std" docName="draft-dnsop-eden-alias-rr-type-00">
  <front>
         <title abbrev="Alias RR Type">Alias RR Type</title>
 
