@@ -111,17 +111,8 @@ materialized records at request time.
 There are no additional privacy concerns introduced by this
 document.
 
-#. IANA Considerations
+# IANA Considerations
 
 This document uses a new DNS RR type, ALIAS, whose value must be
 allocated by IANA from the Resource Record (RR) TYPEs subregistry of
 the Domain Name System (DNS) Parameters registry.
-
-# Acknowledgements
-
-...
-
-# References
-
-[RFC1035]  Mockapetris, P., "Domain names - implementation and
-           specification", STD 13, RFC 1035, November 1987.
